@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **oklaptop30@gmail.com**
 
-- ⚡ Fun fact **Selectively introvert HAHAHA !**
+- ⚡ Fun fact about me  **Selectively introvert HAHAHA !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
