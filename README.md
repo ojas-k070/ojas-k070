@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ojas Anand Kulkarni</h1>
+<h1 align="center">Hello world👋, I'm Ojas Anand Kulkarni</h1>
 <h3 align="center">A passionate AI undergraduate with medium-level expertise in DSA, Machine Learning, Artificial Intelligence, and Full-Stack Development, passionate about solving real-world problems through technology.</h3>
 
 
