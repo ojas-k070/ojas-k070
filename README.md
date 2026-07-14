@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ojas Anand Kulkarni</h1>
 
 <h3 align="center">
@@ -125,11 +129,11 @@ I enjoy transforming complex ideas into production-ready applications while cont
 
 <p align="left">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ojaskulkarni1730@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ojas-kulkarni-53148530b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -149,6 +153,3 @@ I enjoy transforming complex ideas into production-ready applications while cont
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
