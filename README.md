@@ -36,70 +36,77 @@ I enjoy transforming complex ideas into production-ready applications while cont
 
 ---
 
-# 💼 Technical Expertise
+
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,html,css" />
 </p>
 
-### Frontend Development
+### AI • Machine Learning • Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
 </p>
 
-### Backend Development
+`Machine Learning` • `Natural Language Processing (NLP)` • `Computer Vision` • `YOLOv8` • `TF-IDF` • `Naive Bayes`
+
+---
+
+### Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### AI • Machine Learning • Data
-
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Data Analytics
-- Data Engineering
-- Pandas
-- NumPy
-- TF-IDF
-- Naive Bayes
-- Data Visualization
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,javascript" />
 </p>
 
 ---
 
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- REST API Development
+- Backend Architecture
+- Data Engineering
+- Data Visualization
+- CI/CD Workflows
+- 
+
+
+
+
 # 🎯 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence Machine Learning
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI Systems
 - Computer Vision
 - Intelligent Document Processing
 - Data Engineering
-- Full Stack Development
-- Backend Architecture
-- REST API Development
-- Cloud-Native Applications
-- Software Engineering
-- System Design
+
 
 ---
 
