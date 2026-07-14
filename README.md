@@ -70,26 +70,32 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 </p>
 
 ---
+### 🤖 AI • Machine Learning • Data
 
-### AI • Machine Learning • Data
+<p align="left">
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Naive%20Bayes-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge"/>
 
 </p>
-
-- Machine Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- YOLOv8
-- TF-IDF
-- Naive Bayes
-- Pandas
-- NumPy
-- Data Analytics
-- Data Engineering
-- Data Visualization
 
 ---
 
