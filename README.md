@@ -37,9 +37,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 <p align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ojas-k070&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-k070&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojas-k070&theme=github_dark"/>
 
 </p>
 
