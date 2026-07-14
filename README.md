@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ojas Anand Kulkarni</h1>
 
 <h3 align="center">
@@ -12,130 +8,7 @@ Computer Science & Artificial Intelligence Undergraduate • AI Engineer • Ful
 Building scalable AI-driven applications, intelligent automation systems, and modern full-stack solutions.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I am a Computer Science & Artificial Intelligence undergraduate at **Vishwakarma Institute of Technology, Pune**, with a strong academic record (**CGPA: 9.21**) and hands-on experience in developing AI-powered products, full-stack web applications, and data-driven software solutions.
-
-My work focuses on designing scalable systems that combine **Artificial Intelligence, Machine Learning, Data Engineering, and Modern Web Technologies** to solve real-world business problems.
-
-I enjoy transforming complex ideas into production-ready applications while continuously exploring emerging technologies such as **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, and Intelligent Automation**.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ojas-k070&show_icons=true&count_private=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-k070&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,html,css" />
-</p>
-
-### AI • Machine Learning • Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
-</p>
-
-`Machine Learning` • `Natural Language Processing (NLP)` • `Computer Vision` • `YOLOv8` • `TF-IDF` • `Naive Bayes`
-
----
-
-### Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,javascript" />
-</p>
-
----
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-### Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- REST API Development
-- Backend Architecture
-- Data Engineering
-- Data Visualization
-- CI/CD Workflows
-- 
-
-
-
-
-# 🎯 Areas of Interest
-
-- Artificial Intelligence Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Computer Vision
-- Intelligent Document Processing
-- Data Engineering
-
-
----
-
-# 📚 Currently Learning
-
-- Advanced LLM Application Development
-- Multi-Agent AI Systems
-- Scalable Backend Architecture
-- Design Patterns & System Design
-- Cloud Computing
-- AI Deployment & MLOps
-
----
-
-# 🏆 Highlights
-
-- 🎓 B.Tech in Computer Science & Artificial Intelligence
-- 📈 Current CGPA: **9.21**
-- 💼 Former Full Stack Developer Intern
-- 📜 South African Patent Pending Co-Inventor
-- 🚀 Experience building AI-powered and full-stack software solutions
-- 🤝 Passionate about collaborative development and continuous learning
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
+<p align="center">
 <a href="mailto:ojaskulkarni1730@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -152,11 +25,147 @@ I enjoy transforming complex ideas into production-ready applications while cont
 
 ---
 
+# 👨‍💻 About Me
+
+I am a **Computer Science & Artificial Intelligence undergraduate** at **Vishwakarma Institute of Technology, Pune**, with a strong academic record (**CGPA: 9.21**) and practical experience developing AI-powered applications, full-stack software, and data-driven solutions.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Full Stack Engineering, Computer Vision, NLP, and Intelligent Automation**. I enjoy building scalable software systems that solve real-world business problems while continuously exploring modern AI technologies.
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
 
-*"Passionate about building intelligent software that delivers measurable impact through Artificial Intelligence and modern engineering practices."*
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ojas-k070&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-k070&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ojas-k070&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,html,css"/>
+
+</p>
+
+---
+
+### Full Stack Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql"/>
+
+</p>
+
+---
+
+### AI • Machine Learning • Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- YOLOv8
+- TF-IDF
+- Naive Bayes
+- Pandas
+- NumPy
+- Data Analytics
+- Data Engineering
+- Data Visualization
+
+---
+
+### Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+### Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- REST API Development
+- Backend Development
+- Backend Architecture
+- CI/CD Workflows
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Computer Vision
+- Intelligent Document Processing
+- Full Stack Development
+- Data Engineering
+
+---
+
+# 📚 Currently Learning
+
+- Advanced LLM Engineering
+- Multi-Agent AI Systems
+- Scalable Backend Architecture
+- System Design
+- Cloud Computing
+- MLOps
+- AI Deployment
+
+---
+
+# 🏆 Highlights
+
+- 🎓 B.Tech Computer Science & Artificial Intelligence
+- 📈 CGPA **9.21**
+- 💼 Former Full Stack Developer Intern
+- 📜 South African Patent Pending Co-Inventor
+- 🚀 Experience developing AI-powered software solutions
+- 🤝 Passionate about continuous learning and open-source development
+
+---
+
+# 📈 Contribution Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojas-k070&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Passionate about building intelligent software that creates measurable impact through Artificial Intelligence and modern engineering."*
+
+</p>
