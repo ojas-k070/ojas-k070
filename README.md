@@ -1,34 +1,30 @@
-
 <h1 align="center">Hi 👋, I'm Ojas Anand Kulkarni</h1>
-<h3 align="center">Computer Science & Artificial Intelligence Undergraduate | Full Stack Developer | AI Engineer | Building Industry-Grade Solutions</h3>
+
+<h3 align="center">
+Computer Science & Artificial Intelligence Undergraduate • AI Engineer • Full Stack Developer
+</h3>
 
 <p align="center">
-🎓 B.Tech (CSAI) @ VIT Pune <br>
-📍 Pune, Maharashtra, India <br>
-💡 Passionate about AI, Full Stack Development, Computer Vision, NLP & FinTech <br>
-🚀 Building scalable AI products that solve real-world problems
+Building scalable AI-driven applications, intelligent automation systems, and modern full-stack solutions.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Artificial Intelligence (CGPA **9.21**)
-- 💼 Former Full Stack Developer Intern at **OWL AI**
-- 🏆 South African Patent Pending Inventor
-- 🤖 Passionate about AI Engineering, LLMs, Computer Vision and NLP
-- 🌐 Experienced in Full Stack Development using React, Node.js & MongoDB
-- 📊 Love building Data Analytics Platforms and AI-powered products
-- 📚 Currently exploring RAG Systems, Agentic AI and Advanced LLM Applications
-- 🎯 Goal: Build impactful AI products and work at top Product-Based Companies
+I am a Computer Science & Artificial Intelligence undergraduate at **Vishwakarma Institute of Technology, Pune**, with a strong academic record (**CGPA: 9.21**) and hands-on experience in developing AI-powered products, full-stack web applications, and data-driven software solutions.
+
+My work focuses on designing scalable systems that combine **Artificial Intelligence, Machine Learning, Data Engineering, and Modern Web Technologies** to solve real-world business problems.
+
+I enjoy transforming complex ideas into production-ready applications while continuously exploring emerging technologies such as **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, and Intelligent Automation**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ojas-k070&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ojas-k070&show_icons=true&count_private=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-k070&layout=compact&theme=tokyonight"/>
 
@@ -36,49 +32,47 @@
 
 ---
 
-## 💻 Tech Stack
+# 💼 Technical Expertise
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,sql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,html,css"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-### Backend
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### AI / ML
+### AI • Machine Learning • Data
 
-<p>
-
+- Artificial Intelligence
 - Machine Learning
-- NLP
+- Natural Language Processing (NLP)
 - Computer Vision
-- YOLO
+- Data Analytics
+- Data Engineering
 - Pandas
 - NumPy
 - TF-IDF
 - Naive Bayes
-- Data Analytics
+- Data Visualization
 
-</p>
-
-### Tools
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -86,99 +80,48 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Areas of Interest
 
-## 💳 ParsePAY — Intelligent Financial Intelligence Platform
-
-- AI-powered PDF Bank Statement Analyzer
-- ML-based Transaction Categorization
-- Automated Financial Analytics Dashboard
-- Excel Report Generation
-- Processes 500+ transactions per statement
-
-**Tech Stack**
-
-Python • Flask • Pandas • Machine Learning • TF-IDF • Naive Bayes • Excel
-
----
-
-## 🛡️ CyberShield — AI Security Auditing Platform
-
-- AI Powered Static Application Security Testing
-- GitHub Repository Scanner
-- OWASP Top-10 Detection
-- LLM-based Vulnerability Fix Suggestions
-- Downloadable Security Reports
-
-**Tech Stack**
-
-Python • AI • LLM • GitHub API • Flask
-
----
-
-## 🏙️ Civic-Eye — Smart Complaint Resolution System
-
-- Full Stack Complaint Management
-- Real-time Complaint Tracking
-- Admin Dashboard
-- Reward Based Citizen Engagement
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
----
-
-## 🚦 Adaptive Roadway Traffic Signal Control
-
-- YOLO-based Vehicle Detection
-- Dynamic Signal Timing
-- Reinforcement Learning
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
 - Computer Vision
-- SUMO Traffic Simulation
-
-**Tech Stack**
-
-Python • YOLOv8 • OpenCV • Reinforcement Learning
-
----
-
-# 📜 Patent
-
-🏅 **South African Patent Pending**
-
-**A Web-Based System for Centralized Blood Bank and Inventory Management**
-
-- Real-time Blood Inventory Tracking
-- Multi-Center Blood Bank Integration
-- Supply Chain Optimization
-- Inventory Prediction
+- Intelligent Document Processing
+- Data Engineering
+- Full Stack Development
+- Backend Architecture
+- REST API Development
+- Cloud-Native Applications
+- Software Engineering
+- System Design
 
 ---
 
-# 💼 Experience
+# 📚 Currently Learning
 
-### Full Stack Developer Intern — OWL AI
-
-- Built Real-Time Chat Application
-- WebSocket Communication
-- API Integration
-- Responsive UI Development
-
----
-
-## 📈 Current Focus
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Retrieval Augmented Generation (RAG)
-- 🔥 Agentic AI
-- 💻 System Design
-- ☁️ Scalable AI Applications
-- 📊 AI + Data Engineering
+- Advanced LLM Application Development
+- Multi-Agent AI Systems
+- Scalable Backend Architecture
+- Design Patterns & System Design
+- Cloud Computing
+- AI Deployment & MLOps
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Highlights
+
+- 🎓 B.Tech in Computer Science & Artificial Intelligence
+- 📈 Current CGPA: **9.21**
+- 💼 Former Full Stack Developer Intern
+- 📜 South African Patent Pending Co-Inventor
+- 🚀 Experience building AI-powered and full-stack software solutions
+- 🤝 Passionate about collaborative development and continuous learning
+
+---
+
+# 🤝 Let's Connect
 
 <p align="left">
 
@@ -186,7 +129,7 @@ Python • YOLOv8 • OpenCV • Reinforcement Learning
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -198,11 +141,11 @@ Python • YOLOv8 • OpenCV • Reinforcement Learning
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ "Building AI that solves real-world problems."
+*"Passionate about building intelligent software that delivers measurable impact through Artificial Intelligence and modern engineering practices."*
 
-</div>
+</p>
 
 ---
 
