@@ -25,7 +25,7 @@ Building scalable AI-driven applications, intelligent automation systems, and mo
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I am a **Computer Science & Artificial Intelligence undergraduate** at **Vishwakarma Institute of Technology, Pune**, with a strong academic record (**CGPA: 9.21**) and practical experience developing AI-powered applications, full-stack software, and data-driven solutions.
 
@@ -33,7 +33,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -46,7 +46,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 
@@ -118,7 +118,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -144,7 +144,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-# 🏆 Highlights
+#  Highlights
 
 - 🎓 B.Tech Computer Science & Artificial Intelligence
 - 📈 CGPA **9.21**
@@ -155,7 +155,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-# 📈 Contribution Summary
+#  Contribution Summary
 
 <p align="center">
 
